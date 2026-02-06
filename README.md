@@ -23,4 +23,4 @@ A detailed description of the DisplacementMLP+ model can be found in the article
 
 Mangileva, Daria, and Nikita S. Markov. "DisplacementMLP+: Unsupervised Neural Network for Dynamic Scene Analysis." 2025 IEEE Ural-Siberian Conference on Biomedical Engineering, Radioelectronics and Information Technology (USBEREIT). IEEE, 2025.
 
-See [references.bib](references.bib) for BibTeX citations.
+See [references.bib](cite.bib) for BibTeX citations.
