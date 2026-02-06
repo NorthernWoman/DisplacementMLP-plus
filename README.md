@@ -1,4 +1,6 @@
 # DisplacementMLP-plus
+![The model diagram consisting of an MLP.](im.PNG)
+
 DisplacementMLP+ is an unsupervised neural network model based on implicit neural representations for computing displacement fields from two video sequence images.
 
 Running the Model in Google Colab
@@ -18,6 +20,7 @@ Li, Nianyi, et al. "Unsupervised non-rigid image distortion removal via grid def
 https://github.com/Nianyi-Li/unsupervised-NDIR.git
 
 A detailed description of the DisplacementMLP+ model can be found in the article:
+
 Mangileva, Daria, and Nikita S. Markov. "DisplacementMLP+: Unsupervised Neural Network for Dynamic Scene Analysis." 2025 IEEE Ural-Siberian Conference on Biomedical Engineering, Radioelectronics and Information Technology (USBEREIT). IEEE, 2025.
 
 
