@@ -7,5 +7,7 @@ Running the Model in Google Colab
 2) Set up a runtime with a GPU (graphics processor).
 3) Upload all files from the «Files» folder into the notebook environment, where:
  - 0.png, 1.png - a pair of frames;
- - best-model-grid02.pt - initialized weights for the mesh generator.
+ - best-model-grid02.pt - initialised weights for the grid generator.
+
+
 
